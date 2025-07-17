@@ -16,7 +16,7 @@ R2 Score=0.6709635479274084
 Accuracy=67%
 
 CONCLUSION:
-1.The model achieved an R² score of ~0.67 on the test set, indicating it can explain around 67% of the variation in car prices.
-2.There is no significant overfitting, as training and test R² scores are close (Train ≈ 0.69, Test ≈ 0.67).
+1.The model achieved an R² score of ~0.67 on the test set,it can explain price around 67% correctly.
+2.There is no overfitting, beacuse training and test R² scores are close (Train ≈ 0.69, Test ≈ 0.67).
 3.Features like car year and kilometers driven had a strong impact on price.
-4.Categorical variables (like fuel type and seller type) also contributed positively when encoded.
+
